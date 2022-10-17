@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+    <h1 class="title">The Top 10 My Best Friends</h1>
+    <table class="tabel">
+      <tr class="kepala-tabel">
+        <th>NIM</th>
+        <th>Nama</th>
+        <th>Alamat</th>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Lee Haechan</td>
+        <td>Bandung</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Mark Lee</td>
+        <td>Kanada</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Huang Renjun</td>
+        <td>Jakarta Selatan</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Na Jaemin</td>
+        <td>Bogor</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Jeong Jaehyun</td>
+        <td>Kalimantan</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Kim jungwoo</td>
+        <td>Cirebon</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Lee Taeyong</td>
+        <td>Bekasi</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Lee Jeno</td>
+        <td>Aceh</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Park Jisung</td>
+        <td>Tanggerang</td>
+      </tr>
+       <tr>
+        <td>41226064</td>
+        <td>Chenle</td>
+        <td>Tanggerang Selatan</td>
+      </tr>
+  </table>
