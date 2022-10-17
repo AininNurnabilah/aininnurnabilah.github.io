@@ -1,0 +1,30 @@
+body {
+  background-color: DarkKhaki;
+}
+title {
+  text-align: center;
+}
+
+td,
+th {
+  border: 2px solid olive;
+  text-align: center;
+  padding: 10px;
+}
+
+td:hover {
+  background-color: DarkOliveGreen;
+}
+
+th:hover {
+  background-color: DarkOliveGreen;
+}
+
+.kepala-tabel {
+  background-color: burlywood;
+}
+
+.tabel {
+  border-collapse: Collapse;
+  width: 100%;
+}
